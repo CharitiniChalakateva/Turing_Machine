@@ -14,10 +14,13 @@ To run this program, ensure that you have a C compiler installed on your system.
 Once the program is compiled, you can execute it by running the following command:
                                   ./turing_machine
 
-The Turing Machine Simulator will execute the rules defined in the `rules.c` file. It will read and manipulate symbols on an infinite tape, following the specified rules. The final content of the tape will be displayed on the screen.
+The Turing Machine Simulator will execute the rules defined in the `rules.c` file. 
+It will read and manipulate symbols on an infinite tape, following the specified rules. 
+The final content of the tape will be displayed on the screen.
 
 ## Customization
-If you want to modify the behavior of the Turing Machine, you can edit the `rules.c` file. The file contains an array of rules that define how the machine interacts with symbols on the tape. You can add, remove, or modify rules to create different Turing Machine configurations.
+If you want to modify the behavior of the Turing Machine, you can edit the `rules.c` file. 
+The file contains an array of rules that define how the machine interacts with symbols on the tape. 
 
 ## Contributing
 Contributions to this project are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request. Your contributions will help make the Turing Machine Simulator even better.
