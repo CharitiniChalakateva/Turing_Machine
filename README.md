@@ -22,6 +22,3 @@ If you want to modify the behavior of the Turing Machine, you can edit the `rule
 ## Contributing
 Contributions to this project are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request. Your contributions will help make the Turing Machine Simulator even better.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
