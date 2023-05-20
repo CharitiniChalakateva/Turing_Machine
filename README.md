@@ -18,6 +18,11 @@ The Turing Machine Simulator will execute the rules defined in the `rules.c` fil
 It will read and manipulate symbols on an infinite tape, following the specified rules. 
 The final content of the tape will be displayed on the screen.
 
+For the execution of the `makefile`, you can run the following commands:
+ (1) To compile the program: 'make'
+(2) To run the program: './turing_machine'
+(3) To clean files created during compilation: 'make clean'
+
 ## Customization
 If you want to modify the behavior of the Turing Machine, you can edit the `rules.c` file. 
 The file contains an array of rules that define how the machine interacts with symbols on the tape. 
